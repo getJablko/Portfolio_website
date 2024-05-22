@@ -355,7 +355,7 @@ section {
 
 article {
     display: flex;
-    width: 10rem;
+    width: 15rem;
     /* problem zarovnania */
     justify-content: start;
     gap: 0.5rem;
@@ -403,6 +403,8 @@ article .icon {
 
 .contact-info-upper-container {
     display: flex;
+    width: 25rem;
+    flex-direction: column;
     justify-content: center;
     border-radius: 2rem;
     border: rgb(53,53,53);
