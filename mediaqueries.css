@@ -67,6 +67,8 @@
     .contact-info-upper-container,
     .btn-container {
         flex-wrap: wrap;
+        width: 20rem;
+        align-content: center;
     }
     .cotact-info-container {
         margin: 0;
